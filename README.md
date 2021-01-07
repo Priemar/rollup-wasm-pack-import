@@ -1,4 +1,4 @@
-# wasm-pack-import (Rollup plugin)
+# rollup-wasm-pack-import (Rollup plugin)
 
 This plugin allows you to use WebAssembly built with wasm-pack in rollup. (+ This also works with (service)workers)
 
@@ -10,7 +10,7 @@ This plugin allows you to use WebAssembly built with wasm-pack in rollup. (+ Thi
 ## Installation
 
 ```bash
-npm install --save-dev wasm-pack-import
+npm install --save-dev rollup-wasm-pack-import
 ```
 
 ## Usage
