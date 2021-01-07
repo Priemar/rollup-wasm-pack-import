@@ -1,0 +1,27 @@
+{
+    "name": "rollup-wasm-pack-import",
+    "license": "MIT",
+    "main": "wasm-pack-import.js",
+    "author": {
+        "name": "Mario Prieschl <mario@priemar.dev>"
+    },
+    "description": "Rollup plugin to use webassembly built with wasm-pack",
+    "version": "1.0.0",
+    "homepage": "https://github.com/Priemar/rollup-wasm-pack-import",
+    "module": "wasm-pack-import.js",
+    "files": [
+      "wasm-pack-import.js"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Priemar/rollup-wasm-pack-import"
+    },
+    "keywords": [
+        "wasm",
+        "wasm-pack",
+        "rollup",
+        "webassembly",
+        "import",
+        "copy"
+    ]
+  }
